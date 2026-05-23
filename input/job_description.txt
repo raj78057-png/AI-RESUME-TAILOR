@@ -1,0 +1,37 @@
+About the Internship
+Lalitha Soft Technologies is hiring passionate AI Engineer Interns interested in Voice Chatbot Development, Conversational AI, NLP, and Generative AI technologies.
+This internship offers hands-on experience in building real-world AI-powered voice assistants and chatbot systems.
+
+Responsibilities
+Develop AI-powered voice chatbot applications
+Work with NLP and conversational AI systems
+Integrate Speech-to-Text (STT) and Text-to-Speech (TTS)
+Build APIs and backend integrations
+Research and implement Generative AI solutions
+Collaborate on real-time AI projects
+
+Required Skills
+Python
+Basic Machine Learning & NLP
+APIs & Backend Basics
+SQL / MongoDB Basics
+Git & GitHub
+
+Preferred Skills
+Rasa
+LangChain
+OpenAI APIs
+FastAPI / Flask
+TensorFlow / PyTorch
+Whisper AI
+Dialogflow
+
+Eligibility
+B.Tech / B.Sc / MCA / M.Sc / BCA students
+Freshers passionate about AI & chatbot development
+
+Internship Benefits
+Internship Certificate
+Real-world AI Project Experience
+Mentorship & Guidance
+Opportunity for Full-Time Role based on performance
